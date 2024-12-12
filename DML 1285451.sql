@@ -2,8 +2,8 @@
 
 /*
 
-					SQL Project Name : Police Management System(PMS)
-					Trainee Name	 : Md. Rezaul Karim 
+					SQL Project Name	 : Police Management System(PMS)
+					Trainee Name		 : Md. Rezaul Karim 
 					Trainee ID		 : 1285451
 					Batch ID		 : CS/PNTL-A/62/01 
  --------------------------------------------------------------------------------
@@ -158,8 +158,8 @@ INSERT INTO Evidence (evidence_type, description) VALUES
 ('Photograph', 'Photographs of the crime scene taken by the responding officer.'),
 ('Weapon', 'A firearm found at the scene of the assault, with fingerprints on it.'),
 ('Fingerprint', 'Latent fingerprints found on the stolen vehicle.'),
-('Drugs', 'Bag of suspected illegal drugs found in the suspect’s car during a search.'),
-('Documents', 'Fraudulent bank documents found in the suspect’s apartment.'),
+('Drugs', 'Bag of suspected illegal drugs found in the suspectâ€™s car during a search.'),
+('Documents', 'Fraudulent bank documents found in the suspectâ€™s apartment.'),
 ('Surveillance Video', 'Video footage showing the suspect vandalizing the property.'),
 ('Cash', 'Large sum of cash discovered during the robbery investigation.'),
 ('Bullet Casings', 'Several bullet casings found at the scene of the homicide.'),

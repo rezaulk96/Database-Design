@@ -1,8 +1,8 @@
 
 
 /*
-					SQL Project Name : Police Management System(PMS)
-					Trainee Name	 : Md. Rezaul Karim 
+					SQL Project Name	 : Police Management System(PMS)
+					Trainee Name		 : Md. Rezaul Karim 
 					Trainee ID		 : 1285451
 					Batch ID		 : CS/PNTL-A/62/01 
 
